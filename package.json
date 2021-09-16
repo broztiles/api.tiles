@@ -12,10 +12,10 @@
     "express",
     "restapi"
   ],
-  "author": "zekais",
+  "author": "tiles",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fawwaz37/nodejs-restapi.git"
+    "url": "https://github.com/broztiles/api.tiles.git"
   },
   "bugs": {
     "url": "https://github.com/fawwaz37/nodejs-restapi/issues"
