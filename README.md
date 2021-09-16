@@ -1,12 +1,12 @@
 # **Node JS Rest-API**
 
-<img src="https://i.postimg.cc/KjqrWcc2/zekais-api.png" width="500">
+<img src="" width="500">
 
 Simple Rest-API With Login System, Built using MongoDB, Express.js, and Node.js
 
 Demo App : https://zekais-restapi.herokuapp.com/
 
-Rest-Api : https://zekais-api.herokuapp.com/
+Rest-Api : https://tiles-api.herokuapp.com/
 
 # Installation
 
@@ -17,8 +17,8 @@ Requirements
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/fawwaz37/nodejs-restapi.git
-> cd nodejs-restapi
+> git clone https://github.com/broztiles/api.tiles.git
+> cd api.tiles
 ```
 Use `code .` to open file in VS Code
 ```cmd
