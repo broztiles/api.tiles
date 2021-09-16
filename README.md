@@ -4,7 +4,7 @@
 
 Simple Rest-API With Login System, Built using MongoDB, Express.js, and Node.js
 
-Demo App : https://zekais-restapi.herokuapp.com/
+Demo App : https://tiles-restapi.herokuapp.com/
 
 Rest-Api : https://tiles-api.herokuapp.com/
 
